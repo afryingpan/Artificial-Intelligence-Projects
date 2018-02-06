@@ -1,5 +1,5 @@
 % AI Project #1: Family Tree
-% Program by: Chris Gomez
+% Program by: Chris G.
 % Created On: January 30, 2018
 % COMPSCI 469: Introduction to Artificial Intelligence
 % Professor Steven Wirz
